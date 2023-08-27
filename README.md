@@ -1,2 +1,2 @@
-# weather-metrics
-A React App to get weather information.
+# Weather Metrics
+An app built with React to get weather information. Uses OpenWeatherMap's API.
